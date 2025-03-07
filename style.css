@@ -1,7 +1,21 @@
 body {
-  font-family: Sour Gummy;
+	font-family: Sour Gummy;
+	background-color: #C9E4CA;
+	text-align: center;
 }
 
-div {
-  background color:
+.container {
+	padding: 10px;
+	background-color: #87BBA2;
+	border-radius: 10px;
+	margin: 10px;
+}
+
+img {
+	width: 30vw;
+	padding: 10px;
+}
+
+a {
+	color: #3B6064;
 }
